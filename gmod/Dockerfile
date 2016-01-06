@@ -1,4 +1,4 @@
-FROM benpye/steamcmd:latest
+FROM bpye/steamcmd:latest
 MAINTAINER Ben Pye <ben@curlybracket.co.uk>
 
 # Install Garry's Mod to /opt/garrysmod/
